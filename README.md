@@ -1,3 +1,5 @@
+Student Name: Cynthia Zhou
+
 This is the class repository for Time Series Analysis for Energy and Environment Applications - Spring 2024 <br>
 
 Meeting time: T-Th 11:45 to 1:00 pm <br>
@@ -25,5 +27,3 @@ Office hours: TBD
 
 Please check the syllabus and more information at our class website: <br>
 env797.github.io
-
-NAME:Cynthia
